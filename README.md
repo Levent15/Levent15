@@ -13,9 +13,10 @@
 ### 🎓 About me
 
 - 📚 Studying **Data Science at UC Berkeley** (transferred Fall 2026)
+- 🏅 **SkillsUSA National 2nd Place** in Computer Programming
 - 📈 Interested in **quantitative trading**, market microstructure, and systematic strategy research
 - 🔍 I like turning messy data into clear answers, and clear answers into automated systems
-- 🌱 Currently sharpening my **Python, SQL, and statistics** foundations
+- 🌱 Currently building **ML models with Python** and sharpening my **SQL and statistics** foundations
 
 ### 🛠️ Tools I work with
 
@@ -36,8 +37,8 @@ Coming soon. This section will fill in as I publish work.
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leventvm&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leventvm&layout=compact&hide_border=true" alt="Top languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Levent15&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levent15&layout=compact&hide_border=true" alt="Top languages" height="165">
 </p>
 
 ---
